@@ -1,0 +1,131 @@
+.MMM-CIA .wrapper {
+/*    background-color: #e6e6e6; If you want the wrapper colored*/
+/*    background-image: url('boy.jpg'); If you want a pic in the wrapper */
+    border: 3px solid #000000;
+    border-bottom: 2px solid #000000;
+    -webkit-box-shadow: -1px -1px 33px 7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px -1px 33px 7px rgba(0,0,0,0.75);
+    box-shadow: -1px -1px 33px 7px rgba(0,0,0,0.75);
+	
+	border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+ 
+}
+
+.vfr {
+  color: green;
+}
+
+.mvfr {
+  color: blue;
+}
+
+.ifr {
+  color: red;
+}
+
+.lifr {
+  color: #f0f;
+}
+
+
+.MMM-CIA .header {
+  color: #62FF00;             /* Color the header text. Default is white. */
+}
+
+.MMM-CIA .Altimeter {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */          /* Uncomment if you don't want ID */
+}
+
+.MMM-CIA .CloudList {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want lastUpdate */
+}
+
+.MMM-CIA .EndTime {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want tracking_number */
+}
+
+.MMM-CIA .FlightRules {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want courier */
+}
+
+.MMM-CIA .Icing {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want expected_delivery */
+}
+
+.MMM-CIA .Other {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want shipment_type */
+}
+
+.MMM-CIA .Probability {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want status */
+}
+
+.MMM-CIA .RawLine {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want Title */
+}
+
+.MMM-CIA .StartTime {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want location */
+}
+
+.MMM-CIA .TurbList {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want checkpoint_time */
+}
+
+.MMM-CIA .WindDirection {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want message */
+}
+
+.MMM-CIA .WindGust {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want message */
+}
+
+.MMM-CIA .WindShear {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want date */
+}
+
+.MMM-CIA .WindSpeed {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want date */
+}
+
+.MMM-CIA .Type {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want date */
+}
+
+.MMM-CIA .Visibility {
+  color: #FFFFFF;             /* Default is white. */
+  font-size: 16px;             /* Adjust to your liking, line by line */
+  /*  display: none; */         /* Uncomment if you don't want date */
+}
